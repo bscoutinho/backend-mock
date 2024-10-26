@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "type": "user",
+      "name": "John Doe",
+      "email": "johndoe@nomail.com",
+      "userid": "123.456.789.01",
+      "status": true,
+      "profile": "Nenhum"
+    },
+    {
+      "id": 1,
+      "type": "customer",
+      "name": "Mariah Kenny",
+      "email": "makenny@nomail.com",
+      "userid": "123.456.789.01",
+      "status": true,
+      "profile": "Nenhum"
+    }
+  ]
+}
